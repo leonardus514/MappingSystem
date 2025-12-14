@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../MappingSystem.Core/MappingSystem.Core.csproj" />
+  <Project Path="../MappingSystem.Mappings/MappingSystem.Mappings.csproj" />
+  <Project Path="../MappingSystem.Models/MappingSystem.Models.csproj" />
+  <Project Path="MappingSystem.csproj" />
+</Solution>
