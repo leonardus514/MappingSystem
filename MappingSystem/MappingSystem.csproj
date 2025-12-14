@@ -1,5 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\MappingSystem.Core\MappingSystem.Core.csproj" />
+    <ProjectReference Include="..\MappingSystem.Models\MappingSystem.Models.csproj" />
+    <ProjectReference Include="..\MappingSystem.Mappings\MappingSystem.Mappings.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0</TargetFramework>
